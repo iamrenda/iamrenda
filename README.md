@@ -57,6 +57,15 @@
 
 ---
 
+### MOMENTUM (Google GDGoC ハッカソン)
+
+- 概要：ユーザーが自由テキストで長期目標を入力すると、AIが実行可能なタスクに自動分解し、優先順位をつけてToDoリストを生成するアプリ
+- 使用技術：React Native / TypeScript / FastAPI / PostgreSQL / Gemini / Google Cloud Platform
+- 担当：フロントエンドを担当し、React Native（Expo）およびTypeScriptを用いてアプリのUI/UXの実装
+- リンク：[GitHubリポジトリ](https://github.com/scabi0sa/noriben)
+
+---
+
 ### AUTO World
 
 - 概要：マインクラフト統合版での自作ワールド
