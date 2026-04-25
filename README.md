@@ -3,12 +3,11 @@
 ## 自己紹介
 
 渡部 廉と申します。  
-現在、モバイルアプリ開発を中心にフルスタック開発に取り組んでいます。
 
 - 現在開発中：TOEICAL（モバイルアプリ）
-- 学習中：React Native / Python（競技プログラミング・FastAPI）
-- 強み：フロントエンド開発・UIデザイン
-- 興味分野：バックエンド・AI・インフラ
+- 学習中：Python（FastAPI）/ C++ (競技プログラミング)
+- 強み：フルスタック開発
+- 興味分野：AI・インフラ
 - 趣味：筋トレ・散歩
 
 ---
@@ -17,8 +16,11 @@
 
 **言語**
 
-- HTML / CSS / JavaScript / TypeScript
-- Python
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- C / C++ (競技プログラミング)
 
 **フレームワーク・ライブラリ**
 
@@ -47,13 +49,11 @@
 
 ---
 
-### Syllabus Finder（Chrome拡張機能）
+### 青学Moodle（Chrome拡張機能）
 
-- 概要：自身の大学のシラバス検索を効率化するChrome拡張
-- 使用技術：React / JavaScript / Tailwind CSS
-- 備考：現在は学内LMS変更により動作不可
-- リンク：[GitHubリポジトリ](https://github.com/iamrenda/SyllabusFinder)
-  [Chromeウェブストア](https://chromewebstore.google.com/detail/%E9%9D%92%E5%B1%B1%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC/hieohplcjpfeoelbifofgmmnpdgmbjbk)
+- 概要：自身の大学のLMS（Moodle）を便利にするChrome拡張機能
+- 使用技術：React / JavaScript
+- リンク：[Chromeウェブストア](https://chromewebstore.google.com/detail/%E9%9D%92%E5%AD%A6noodle/pojgmfamaaeakcilpkdimbigajeaafhc)
 
 ---
 
@@ -88,7 +88,7 @@
 
 ## 資格・実績
 
-- AtCoder 茶色コーダー（Brown）(2026年3月)
+- [AtCoder 茶色コーダー](https://atcoder.jp/users/iamrenda) (2026年3月)
 - 基本情報技術者試験 合格 (2026年1月)
 - ITパスポート試験 合格 (2025年8月)
 
@@ -103,4 +103,4 @@
 ---
 
 ご覧いただきありがとうございます。
-(2026年4月1日更新)
+(2026年4月25日更新)
